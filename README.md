@@ -94,7 +94,7 @@ The following circuit diagram demonstrates the setup for one finger. This config
 ## Working Code
 The working code for the Smart Hand Mobility Assistive Device can be found in the `code` directory of this repository. Please refer to the `main.py` file for the implementation details.
 
-## Demo Images and Video
+## Demo Images and Videos
 ### Images
 <img src="https://github.com/1kushagra2/Newbees_Elcia/blob/main/setup%20image.jpg" alt="Wearable device image1" width="400" height="300"/>
 <img src="https://github.com/1kushagra2/Newbees_Elcia/blob/main/setup%20image1.jpg" alt="Wearable device image2" width="400" height="300"/>

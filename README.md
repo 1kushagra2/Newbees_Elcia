@@ -67,8 +67,8 @@ The working code for the Smart Hand Mobility Assistive Device can be found in th
 
 ## Demo Images and Video
 ### Images
-![Wearable device image1](https://github.com/1kushagra2/Newbees_Elcia/blob/main/setup%20image.jpg)
-![Wearable device image1](https://github.com/1kushagra2/Newbees_Elcia/blob/main/setup%20image1.jpg)
+<img src="https://github.com/1kushagra2/Newbees_Elcia/blob/main/setup%20image.jpg" alt="Wearable device image1" width="400" height="300"/>
+<img src="https://github.com/1kushagra2/Newbees_Elcia/blob/main/setup%20image1.jpg" alt="Wearable device image2" width="400" height="300"/>
 
 A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](path_to_demo_video).
 

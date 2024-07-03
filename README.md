@@ -8,7 +8,7 @@
 5. [Pinout Diagram](#pinout-diagram)
 6. [Project Status](#project-status).
 7. [Working Code](#working-code)
-8. [Demo Video](#demo-video)
+8. [Demo Images and Videos](#demo-images-and-videos)
 9. [Acknowledgements](#acknowledgements)
 
 ## Introduction

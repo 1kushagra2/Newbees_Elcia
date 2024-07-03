@@ -11,16 +11,22 @@
 8. [Acknowledgements](#acknowledgements)
 
 ## Introduction
+
+### Problem Statement
 Millions of individuals suffer from impaired hand mobility due to conditions such as stroke, spinal cord injuries, muscular dystrophy, and other neuro-muscular disorders. This loss of hand function significantly impacts their ability to perform everyday tasks, leading to decreased independence and quality of life. Current rehabilitation methods are often slow, lack real-time feedback, and do not provide the necessary assistance for daily activities. There is a crucial need for an innovative solution that aids in both daily tasks and rehabilitation exercises.
+
+### Proposed Solution
+Our proposed solution is a Smart Hand Mobility Assistive Device designed to detect minimal muscle signals and slight finger movements, amplifying them to facilitate complete and controlled hand motions. This device not only assists users in performing daily activities but also serves as an advanced physiotherapy tool. It leverages cutting-edge sensor technology, real-time data processing, and adaptive actuation to provide personalized assistance and rehabilitation, making it a transformative tool for individuals with hand mobility impairments.
 
 ## Overview
 Our proposed solution is a Smart Hand Mobility Assistive Device designed to detect minimal muscle signals and slight finger movements, amplifying them to facilitate complete and controlled hand motions. This device not only assists users in performing daily activities but also serves as an advanced physiotherapy tool. It leverages cutting-edge sensor technology, real-time data processing, and adaptive actuation to provide personalized assistance and rehabilitation, making it a transformative tool for individuals with hand mobility impairments.
 
 ## Components Required with Bill of Materials
-- Flex Sensors (5 units): ₹1500
-- MG996R Servo Motors (5 units): ₹1,500
-- Raspberry Pi Pico M (1 unit): ₹600
-- Total Estimated Budget: ₹3600
+- Flex Sensor - 2.2 inch (5 units): ₹285 * 5 = ₹1,425
+- N20-6V-200 RPM Micro Metal Gear-box DC Motor (5 units): ₹270 * 5 = 1,350
+- Raspberry Pi Pico W (1 unit): ₹539
+- DRV8833 2 Channel DC Motor Driver (3 unit) = ₹97.2 * 3 = 291.6
+- Total Estimated Budget: ₹3,605.6
 
 ## Table for Pin Connections
 | Component         | Pin on Raspberry Pi Pico M |

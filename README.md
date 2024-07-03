@@ -27,7 +27,7 @@ Additionally, the app will include interactive games that can be played based on
 ### Flow Chart
 Flow chart to understand the fundamental working of our project
 
-![FLow chart](https://github.com/1kushagra2/Newbees_Elcia/blob/main/hand_flow%20chart.jpg)
+![FLow chart](https://github.com/1kushagra2/Newbees_Elcia/blob/main/flow%20chart.jpg)
 
 ## Components Required with Bill of Materials
 

@@ -39,7 +39,7 @@ Additionally, the app will include interactive games that can be played based on
 - Raspberry Pi Pico W (1 unit): ₹539
 - DRV8833 2 Channel DC Motor Driver (3 unit) = ₹97.2 * 3 = 291.6
 - Total Estimated Budget: ₹3,605.6
-- 
+
 ## Table for Pin Connections
 | Component         | Pin on Raspberry Pi Pico M |
 |-------------------|----------------------------|

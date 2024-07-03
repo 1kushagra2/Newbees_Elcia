@@ -6,9 +6,10 @@
 3. [Components Required with Bill of Materials](#components-required-with-bill-of-materials)
 4. [Table for Pin Connections](#table-for-pin-connections)
 5. [Pinout Diagram](#pinout-diagram)
-6. [Working Code](#working-code)
-7. [Demo Video](#demo-video)
-8. [Acknowledgements](#acknowledgements)
+6. [Project Status].(#project-status).
+7. [Working Code](#working-code)
+8. [Demo Video](#demo-video)
+9. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 ### - Problem Statement
@@ -61,6 +62,7 @@ Additionally, the app will include interactive games that can be played based on
 
 The following circuit diagram demonstrates the setup for one finger. This configuration is replicated for all five fingers in the assistive device.
 
+## Project Status
 
 ## Working Code
 The working code for the Smart Hand Mobility Assistive Device can be found in the `code` directory of this repository. Please refer to the `main.py` file for the implementation details.

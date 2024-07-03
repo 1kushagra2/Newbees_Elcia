@@ -6,7 +6,7 @@
 3. [Components Required with Bill of Materials](#components-required-with-bill-of-materials)
 4. [Table for Pin Connections](#table-for-pin-connections)
 5. [Pinout Diagram](#pinout-diagram)
-6. [Project Status].(#project-status).
+6. [Project Status](#project-status).
 7. [Working Code](#working-code)
 8. [Demo Video](#demo-video)
 9. [Acknowledgements](#acknowledgements)

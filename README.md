@@ -59,6 +59,9 @@ Additionally, the app will include interactive games that can be played based on
 ## Pinout Diagram
 ![Pinout Diagram](https://github.com/1kushagra2/Newbees_Elcia/blob/main/hand_pinout%20diagram.jpg)
 
+The following circuit diagram demonstrates the setup for one finger. This configuration is replicated for all five fingers in the assistive device.
+
+
 ## Working Code
 The working code for the Smart Hand Mobility Assistive Device can be found in the `code` directory of this repository. Please refer to the `main.py` file for the implementation details.
 

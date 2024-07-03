@@ -57,7 +57,7 @@ Additionally, the app will include interactive games that can be played based on
 | Power Supply      | VCC, GND                   |
 
 ## Pinout Diagram
-![Pinout Diagram](path_to_pinout_diagram)
+![Pinout Diagram](https://github.com/1kushagra2/Newbees_Elcia/blob/main/hand_pinout%20diagram.jpg)
 
 ## Working Code
 The working code for the Smart Hand Mobility Assistive Device can be found in the `code` directory of this repository. Please refer to the `main.py` file for the implementation details.

@@ -65,7 +65,8 @@ The following circuit diagram demonstrates the setup for one finger. This config
 ## Working Code
 The working code for the Smart Hand Mobility Assistive Device can be found in the `code` directory of this repository. Please refer to the `main.py` file for the implementation details.
 
-## Demo Video
+## Demo Images and Video
+![Wearable device images](https://github.com/1kushagra2/Newbees_Elcia/blob/main/hand_pinout%20diagram.jpg)
 A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](path_to_demo_video).
 
 ## Acknowledgements

@@ -6,7 +6,7 @@
 3. [Components Required with Bill of Materials](#components-required-with-bill-of-materials)
 4. [Table for Pin Connections](#table-for-pin-connections)
 5. [Pinout Diagram](#pinout-diagram)
-6. [Project Status](#project-status).
+6. [Project Progress Status](#project-progress-status).
 7. [Working Code](#working-code)
 8. [Demo Images and Videos](#demo-images-and-videos)
 9. [Conclusion](#conclusion)
@@ -68,7 +68,7 @@ Flow chart to understand the fundamental working of our project
 
 The following circuit diagram demonstrates the setup for one finger. This configuration is replicated for all five fingers for our assistive device as the final product.
 
-## Project Status
+## Project Progress Status
 ### Tasks Completed
 #### Hardware Implementation:
 - Developed the concept and idea for implementing our project.

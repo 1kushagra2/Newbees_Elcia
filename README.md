@@ -63,6 +63,9 @@ Additionally, the app will include interactive games that can be played based on
 The following circuit diagram demonstrates the setup for one finger. This configuration is replicated for all five fingers for our assistive device as the final product.
 
 ## Project Status
+- We have developed the concept and idea for implementing our project and started 3D printing the model for the wearable device. Currently, we have implemented our product for one finger, including 3D printing the model, writing all necessary code, and assembling the flex sensor and motor driver for the finger's functionality and mobility.
+- On the software side, we have developed an app that currently features one 2-D game, which is controlled by the motion of the finger.
+- We have successfully established wireless communication between the app and the wearable device.
 
 ## Working Code
 The working code for the Smart Hand Mobility Assistive Device can be found in the `code` directory of this repository. Please refer to the `main.py` file for the implementation details.

@@ -11,11 +11,9 @@
 8. [Acknowledgements](#acknowledgements)
 
 ## Introduction
-
-### Problem Statement
+### - Problem Statement
 Millions of individuals suffer from impaired hand mobility due to conditions such as stroke, spinal cord injuries, muscular dystrophy, and other neuro-muscular disorders. This loss of hand function significantly impacts their ability to perform everyday tasks, leading to decreased independence and quality of life. Current rehabilitation methods are often slow, lack real-time feedback, and do not provide the necessary assistance for daily activities. There is a crucial need for an innovative solution that aids in both daily tasks and rehabilitation exercises.
-
-### Proposed Solution
+### - Proposed Solution
 Our proposed solution is a Smart Hand Mobility Assistive Device designed to detect minimal muscle signals and slight finger movements, amplifying them to facilitate complete and controlled hand motions. This device not only assists users in performing daily activities but also serves as an advanced physiotherapy tool. It leverages cutting-edge sensor technology, real-time data processing, and adaptive actuation to provide personalized assistance and rehabilitation, making it a transformative tool for individuals with hand mobility impairments.
 
 ## Overview

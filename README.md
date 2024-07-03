@@ -78,4 +78,4 @@ This image represents the current stage of our project. The final product will b
 A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](path_to_demo_video).
 
 ## Acknowledgements
-We would like to thank everyone who supported and contributed to this project. Special thanks to the physiotherapists and healthcare providers for their invaluable insights and feedback.
+

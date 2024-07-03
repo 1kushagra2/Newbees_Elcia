@@ -30,6 +30,19 @@ Additionally, the app will include interactive games that can be played based on
 - DRV8833 2 Channel DC Motor Driver (3 unit) = ₹97.2 * 3 = 291.6
 - Total Estimated Budget: ₹3,605.6
 
+## Components Required with Bill of Materials
+| Item                        | Quantity | Description                                                   | Links to Products                                      |
+|-----------------------------|----------|---------------------------------------------------------------|--------------------------------------------------------|
+| Flex Sensor - 2.2 inch      | 5 units  | Detects finger bending                                        | [Flex Sensor]([https://www.sparkfun.com/products/8606](https://www.electronicscomp.com/flex-sensor-2.2-inch?srsltid=AfmBOopR7z6Zs6t5TW5-ze4s0kOktSYDJWyzYXKNUTYlj3gBbFh7tCDjUqk))  |
+| N20-6V-200 RPM Micro Metal Gear-box DC Motor | 5 units | Provides precise motor control                                | [N20 Motor]([https://amzn.in/d/6H2vFlt](https://robu.in/product/n20-6v-100-rpm-micro-metal-gear-box-dc-motor-2/?gad_source=1&gclid=Cj0KCQjw7ZO0BhDYARIsAFttkChGNSYdhbZk3Be9WiX_V8mCS_95Z-uMBP6Zqxhf-Wwub9cNHNfHuDQaAp3jEALw_wcB))                  |
+| Raspberry Pi Pico W         | 1 unit   | Microcontroller board with wireless capabilities              | [Raspberry Pi Pico W]([https://amzn.in/d/6T1ghcY](https://robu.in/product/raspberry-pi-pico-w/?gad_source=1&gclid=Cj0KCQjw7ZO0BhDYARIsAFttkCiOdSAG-M2rP2H7bHVe7vGHQi-3c1n1Sug9RDFhG_kqAb2_s15yfvoaAoSyEALw_wcB))        |
+| DRV8833 2 Channel DC Motor Driver | 3 units | Motor driver for controlling DC motors                        | [DRV8833 Motor Driver]([https://amzn.in/d/8M3fXtR](https://robu.in/product/raspberry-pi-pico-w/?gad_source=1&gclid=Cj0KCQjw7ZO0BhDYARIsAFttkCiOdSAG-M2rP2H7bHVe7vGHQi-3c1n1Sug9RDFhG_kqAb2_s15yfvoaAoSyEALw_wcB))       |
+| Jumper Wires                | 1 set    | Male-to-male and female-to-male jumper wires                  | [Jumper Wires](https://amzn.in/d/abTh8bo)               |
+| Micro USB Cable             | 1        | For programming and power supply                              | [Micro USB Cable](https://amzn.in/d/9b3ttSo)            |
+
+Total Estimated Budget: ₹3,605.6
+
+
 ## Table for Pin Connections
 | Component         | Pin on Raspberry Pi Pico M |
 |-------------------|----------------------------|

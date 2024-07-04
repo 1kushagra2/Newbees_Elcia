@@ -6,7 +6,6 @@ uart = UART(0, 9600)
 
 
 flex_pin = ADC(26)  
-s
 AIN1 = Pin(3, Pin.OUT)
 AIN2 = Pin(4, Pin.OUT)
 

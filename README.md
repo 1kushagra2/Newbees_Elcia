@@ -48,20 +48,13 @@ Flow chart to understand the fundamental working of our project
 - Total Estimated Budget: ₹3,605.6
 
 ## Table for Pin Connections
-| Component         | Pin on Raspberry Pi Pico M |
-|-------------------|----------------------------|
-| Flex Sensor 1     | GPIO X                     |
-| Flex Sensor 2     | GPIO Y                     |
-| Flex Sensor 3     | GPIO Z                     |
-| Flex Sensor 4     | GPIO A                     |
-| Flex Sensor 5     | GPIO B                     |
-| Servo Motor 1     | GPIO C                     |
-| Servo Motor 2     | GPIO D                     |
-| Servo Motor 3     | GPIO E                     |
-| Servo Motor 4     | GPIO F                     |
-| Servo Motor 5     | GPIO G                     |
-| Bluetooth Module  | GPIO H                     |
-| Power Supply      | VCC, GND                   |
+
+![image](https://github.com/1kushagra2/Newbees_Elcia/assets/141447943/31800966-d117-4484-ba17-dda29fa80ddc)
+
+![image](https://github.com/1kushagra2/Newbees_Elcia/assets/141447943/7a22fc4c-760f-445e-a6c2-661a365c8f70)
+
+![image](https://github.com/1kushagra2/Newbees_Elcia/assets/141447943/87fd8389-58d2-488f-8d48-96d05de74875)
+
 
 ## Pinout Diagram
 ![Pinout Diagram](https://github.com/1kushagra2/Newbees_Elcia/blob/main/hand_pinout%20diagram.jpg)

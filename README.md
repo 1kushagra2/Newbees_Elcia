@@ -103,7 +103,9 @@ The working code for the Smart Hand Mobility Assistive Device can be found in th
 This image represents the current stage of our project. The final product will be a wearable device designed for all five fingers.
 
 ### Videos
-A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](path_to_demo_video).
+A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](https://youtu.be/YSTW-TZVy8I).
+[![Watch the video](https://img.youtube.com/vi/YSTW-TZVy8I/maxresdefault.jpg)](https://youtu.be/YSTW-TZVy8I)
+
 
 ## Conclusion
 The “Smart Hand Mobility Assistive Device” project aims to revolutionize hand mobility assistance and rehabilitation. By combining advanced sensor technology, precise actuation, and real-time data processing, this device empowers individuals with impaired hand function to regain independence and enhance their quality of life. The device’s innovative approach not only aids in daily tasks but also accelerates rehabilitation, offering a comprehensive solution for both users and healthcare providers. With a focus on user comfort, safety, and adaptability, our solution promises to make a significant impact on the lives of those affected by hand mobility impairments.

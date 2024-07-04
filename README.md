@@ -147,8 +147,8 @@ while True:
 This image represents the current stage of our project. The final product will be a wearable device designed for all five fingers.
 
 ### Videos
-A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](https://youtu.be/YSTW-TZVy8I).
-[![Watch the video](https://img.youtube.com/vi/YSTW-TZVy8I/maxresdefault.jpg)](https://youtu.be/YSTW-TZVy8I)
+A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](https://youtu.be/apKnczhxWy0).
+[![Watch the video](https://img.youtube.com/vi/apKnczhxWy0/maxresdefault.jpg)](https://youtu.be/apKnczhxWy0)
 
 
 ## Conclusion

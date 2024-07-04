@@ -87,7 +87,7 @@ The following circuit diagram demonstrates the setup for one finger. This config
 - Identify and resolve errors at both the hardware and software levels to ensure the smooth functioning of our product.
 ## Working Code
 The working code for the Smart Hand Mobility Assistive Device. For now we have only implemented code for one finger. For the final product we will extend this code for all the five fingers.
-
+### Code for used for micro-contorller(Raspberrypi pico W)
 ```py
 from machine import Pin, ADC, UART
 import utime
@@ -138,6 +138,9 @@ setup()
 while True:
     loop()
 ```
+### Code for used for Creating 2D jumping game for enhancing rehabilitaion process
+
+
 
 ## Demo Images and Videos
 ### Images

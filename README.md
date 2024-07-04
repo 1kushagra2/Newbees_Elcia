@@ -93,7 +93,8 @@ The following circuit diagram demonstrates the setup for one finger. This config
 #### Debugging:
 - Identify and resolve errors at both the hardware and software levels to ensure the smooth functioning of our product.
 ## Working Code
-The working code for the Smart Hand Mobility Assistive Device for one finger.
+The working code for the Smart Hand Mobility Assistive Device. For now we have only implemented code for one finger. For the final product we will extend this code for all the five fingers.
+
 ```py
 from machine import Pin, ADC, UART
 import utime

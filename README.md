@@ -780,10 +780,24 @@ A demo video showcasing the functionality of the Smart Hand Mobility Assistive D
 
 ## Future Prospects
 
+To enhance the design and functionality of our Smart Hand Mobility Assistive Device, we have identified several key areas for improvement and expansion. These advancements will ensure our device continues to meet the evolving needs of users and provides the best possible support for daily activities and rehabilitation.
 
+### Transition to Silicone-Based Structure
+
+- **Comfort and Durability:** We plan to transition from a 3D-printed ring-like structure to a base made of silicone. Silicone is more flexible and durable, which will provide a more comfortable and ergonomic fit for the user. This material change aims to enhance the overall user experience, making the device more wearable for extended periods.
+- **User Compliance:** Increased comfort may lead to higher user compliance with the device, as it will be more comfortable to wear throughout the day, including during extended rehabilitation sessions.
+
+### Expansion of Physiotherapy Exercises
+
+- **Comprehensive Rehabilitation:** We intend to expand the range of physiotherapy exercises available through our mobile app. This will include a broader spectrum of exercises targeting various aspects of hand mobility, strength, and coordination.
+- **Customization and Adaptability:** Users will have access to a wider variety of exercises tailored to their specific needs and progress. This customization will ensure that the rehabilitation process is both effective and engaging, facilitating better outcomes.
+
+### Incorporation of Advanced Controllers and Encoders
+
+- **Precision and Efficiency:** We plan to integrate more advanced controllers and encoders into the device. These components will provide more precise and efficient movement control, ensuring that finger movements are accurately detected and amplified.
+- **Adaptive Assistance:** The advanced technology will allow the device to adapt to the specific requirements of each user, offering personalized assistance that responds to the user's unique hand movement patterns and rehabilitation needs.
 
 ## Conclusion
 The “Smart Hand Mobility Assistive Device” project aims to revolutionize hand mobility assistance and rehabilitation. By combining advanced sensor technology, precise actuation, and real-time data processing, this device empowers individuals with impaired hand function to regain independence and enhance their quality of life. The device’s innovative approach not only aids in daily tasks but also accelerates rehabilitation, offering a comprehensive solution for both users and healthcare providers. With a focus on user comfort, safety, and adaptability, our solution promises to make a significant impact on the lives of those affected by hand mobility impairments.
 
-## Acknowledgements
 

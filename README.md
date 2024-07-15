@@ -376,8 +376,8 @@ public class Door : MonoBehaviour
 
 ## Demo Images and Videos
 ### Images
-<img src="https://github.com/1kushagra2/Newbees_Elcia/blob/main/project_img_1.jpg" alt="Wearable device image1" width="400" height="300"/>
-<img src="https://github.com/1kushagra2/Newbees_Elcia/blob/main/setup%20project_img_2" alt="Wearable device image2" width="400" height="300"/>
+<img src="https://github.com/1kushagra2/Newbees_Elcia/blob/main/project_img_1.jpg" alt="Wearable device image1" width="600" height="400"/>
+<img src="https://github.com/1kushagra2/Newbees_Elcia/blob/main/project_img_2.jpg" alt="Wearable device image2" width="400" height="300"/>
 
 This image represents the current stage of our project. The final product will be a wearable device designed for all five fingers.
 

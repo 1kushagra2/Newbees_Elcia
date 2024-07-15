@@ -25,10 +25,15 @@ The primary function of our device is to assist individuals with impaired hand m
 Our device is also designed to serve as an advanced tool for physiotherapy. We are developing a simple and user-friendly mobile app that will offer a range of predefined physiotherapy exercises. Users can select these exercises from the app, and the device will execute them, such as opening and closing the hand at a controlled speed. This guided exercise routine ensures consistent and effective rehabilitation.
 
 Additionally, the app will include interactive games that can be played based on finger movements detected by the device. These games are designed to improve hand eye and fine motor coordination and make the physiotherapy process more engaging and enjoyable. By incorporating these exercises and games, our device not only aids in physical rehabilitation but also enhances cognitive functions related to hand movements.
-### Flow Chart
+### - Flow Chart
 Flow chart to understand the fundamental working of our project
-
 ![FLow chart](https://github.com/1kushagra2/Newbees_Elcia/blob/main/flow%20chart.jpg)
+### - Finger Movement with String-Pulley Mechanism
+We are implementing this mechanism in our project to move fingers.
+
+
+
+
 
 ## Components Required with Bill of Materials
 

@@ -383,8 +383,8 @@ public class Door : MonoBehaviour
 
 
 ### Videos
-A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](https://www.youtube.com/watch?v=DBRHk1-JDbc).
-[![Watch the video]()](https://www.youtube.com/watch?v=DBRHk1-JDbc)
+A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](https://www.youtube.com/watch?v=sWDcYhpI70U).
+[![Watch the video](https://i9.ytimg.com/vi_webp/DBRHk1-JDbc/mq1.webp?sqp=CKSD1bQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgVihBMA8=&rs=AOn4CLCR6LfPuU1UN-rbkbNlGbHPI8FQPw)](https://www.youtube.com/watch?v=sWDcYhpI70U)
 
 A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device for Physiotheraoy and Rehabilitation available [here](https://www.youtube.com/watch?v=VUKEUVhbraw).
 [![Watch the video]()](https://www.youtube.com/watch?v=VUKEUVhbraw)

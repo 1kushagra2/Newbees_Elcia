@@ -778,6 +778,7 @@ A demo video showcasing the functionality of the Smart Hand Mobility Assistive D
 
 2D Interactive jumping games for the rehabilitation process. [here](https://youtu.be/whzIk8NJf8A?si=46Dk8aPr_QfICc2L).
 
+## How do we plan on taking this product further
 
 ## Conclusion
 The “Smart Hand Mobility Assistive Device” project aims to revolutionize hand mobility assistance and rehabilitation. By combining advanced sensor technology, precise actuation, and real-time data processing, this device empowers individuals with impaired hand function to regain independence and enhance their quality of life. The device’s innovative approach not only aids in daily tasks but also accelerates rehabilitation, offering a comprehensive solution for both users and healthcare providers. With a focus on user comfort, safety, and adaptability, our solution promises to make a significant impact on the lives of those affected by hand mobility impairments.

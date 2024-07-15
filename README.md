@@ -377,7 +377,8 @@ public class Door : MonoBehaviour
 ## Demo Images and Videos
 ### Images
 ![Wearable device image1](https://github.com/1kushagra2/Newbees_Elcia/blob/main/project_img_1.jpg)
-![Wearable device image2](https://github.com/1kushagra2/Newbees_Elcia/blob/main/project_img_2.jpg)
+<img src="https://github.com/1kushagra2/Newbees_Elcia/blob/main/project_img_2.jpg" alt="Wearable device image2" width="1000" height="500"/>
+
 
 
 

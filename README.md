@@ -386,8 +386,8 @@ public class Door : MonoBehaviour
 A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](https://www.youtube.com/watch?v=DBRHk1-JDbc).
 [![Watch the video]()](https://www.youtube.com/watch?v=DBRHk1-JDbc)
 
-A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device for Physiotheraoy and Rehabilitation available [here](https://www.youtube.com/watch?v=lipc560pbNo).
-[![Watch the video]()](https://www.youtube.com/watch?v=lipc560pbNo)
+A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device for Physiotheraoy and Rehabilitation available [here](https://www.youtube.com/watch?v=VUKEUVhbraw).
+[![Watch the video]()](https://www.youtube.com/watch?v=VUKEUVhbraw)
 
 2D Interactive jumping games for the rehabilitation process. [here](https://youtu.be/whzIk8NJf8A?si=46Dk8aPr_QfICc2L).
 [![Watch the video]()](https://youtu.be/whzIk8NJf8A?si=46Dk8aPr_QfICc2L)

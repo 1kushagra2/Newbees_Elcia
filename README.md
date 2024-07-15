@@ -61,30 +61,11 @@ Flow chart to understand the fundamental working of our project
 
 The following circuit diagram demonstrates the setup for one finger. This configuration is replicated for all five fingers for our assistive device as the final product.
 
-## Project Progress Status
-### Tasks Completed
-#### Hardware Implementation:
-- Developed the concept and idea for implementing our project.
-- Started 3D printing the model for the wearable device.
-- Implemented our product for one finger, including 3D printing the model, writing all necessary code, and assembling the flex sensor and motor driver for the finger's functionality and mobility.
+## 3D design measurnment
 
-#### Software Development:
-- Developed an app featuring one 2-D game controlled by the motion of the finger.
-- Established wireless communication between the app and the wearable device.
-  
-### Tasks to be Completed
-#### Hardware Implementation:
-- Replicate the implementation of one finger to the remaining four fingers.
-- Sync and calibrate the readings of all five flex sensors for optimal results.
-- Design a more efficient 3D case to house all five motor drivers and motors.
+![Measurnment](https://github.com/1kushagra2/Newbees_Elcia/blob/main/github_measurnment_elcia.png)
 
-#### Software Development:
-- Expand the app to include additional games.
-- Implement a dedicated physiotherapy library with predefined exercises.
-- Test these exercises on the wearable hand assistive system.
 
-#### Debugging:
-- Identify and resolve errors at both the hardware and software levels to ensure the smooth functioning of our product.
 ## Working Code
 The working code for the Smart Hand Mobility Assistive Device. For now we have only implemented code for one finger. For the final product we will extend this code for all the five fingers.
 ### Code for used for micro-contorller(Raspberrypi pico W)

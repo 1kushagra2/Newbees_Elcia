@@ -383,11 +383,14 @@ public class Door : MonoBehaviour
 
 
 ### Videos
-A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](https://youtu.be/apKnczhxWy0).
-[![Watch the video](https://img.youtube.com/vi/apKnczhxWy0/maxresdefault.jpg)](https://youtu.be/apKnczhxWy0)
+A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device is available [here](https://www.youtube.com/watch?v=DBRHk1-JDbc).
+[![Watch the video]()](https://www.youtube.com/watch?v=DBRHk1-JDbc)
 
-A 2D Interactive jumping game for the rehabilitation process. [here](https://youtu.be/GwDFUGwqOzI).
-[![Watch the video](https://img.youtube.com/vi/GwDFUGwqOzI/maxresdefault.jpg)](https://youtu.be/GwDFUGwqOzI)
+A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device for Physiotheraoy and Rehabilitation available [here](https://www.youtube.com/watch?v=lipc560pbNo).
+[![Watch the video]()](https://www.youtube.com/watch?v=lipc560pbNo)
+
+2D Interactive jumping games for the rehabilitation process. [here](https://youtu.be/whzIk8NJf8A?si=46Dk8aPr_QfICc2L).
+[![Watch the video]()](https://youtu.be/whzIk8NJf8A?si=46Dk8aPr_QfICc2L)
 
 ## Conclusion
 The “Smart Hand Mobility Assistive Device” project aims to revolutionize hand mobility assistance and rehabilitation. By combining advanced sensor technology, precise actuation, and real-time data processing, this device empowers individuals with impaired hand function to regain independence and enhance their quality of life. The device’s innovative approach not only aids in daily tasks but also accelerates rehabilitation, offering a comprehensive solution for both users and healthcare providers. With a focus on user comfort, safety, and adaptability, our solution promises to make a significant impact on the lives of those affected by hand mobility impairments.

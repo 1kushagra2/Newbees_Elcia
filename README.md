@@ -29,9 +29,8 @@ Additionally, the app will include interactive games that can be played based on
 Flow chart to understand the fundamental working of our project
 ![FLow chart](https://github.com/1kushagra2/Newbees_Elcia/blob/main/flow%20chart.jpg)
 ### - Finger Movement with String-Pulley Mechanism
-We are implementing this mechanism in our project to move fingers.
-
-
+We are implementing this mechanism in our project to move fingers.[here](https://youtu.be/apKnczhxWy0).
+[![Watch the video](https://img.youtube.com/vi/apKnczhxWy0/maxresdefault.jpg)](https://youtu.be/apKnczhxWy0)
 
 
 

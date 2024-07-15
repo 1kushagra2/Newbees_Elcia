@@ -10,7 +10,7 @@
 7. [Working Code](#working-code)
 8. [Demo Images and Videos](#demo-images-and-videos)
 9. [Conclusion](#conclusion)
-10. [Acknowledgements](#acknowledgements)
+10. [Conclusion](#conclusion)
 
 ## Introduction
 ### - Problem Statement

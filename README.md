@@ -135,7 +135,7 @@ while True:
     loop()
 
 ```
-```
+```py
 from machine import Pin, UART
 import utime
 
@@ -193,7 +193,7 @@ loop()
 
 
 ```
-```
+```py
 from machine import Pin, UART
 import utime
 

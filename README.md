@@ -893,7 +893,7 @@ public class MainActivity extends AppCompatActivity {
 ## Demo Images and Videos
 ### Images
 ![Wearable device image1](https://github.com/1kushagra2/Newbees_Elcia/blob/main/project_img_1.jpg)
-<img src="https://github.com/1kushagra2/Newbees_Elcia/blob/main/project_img_2.jpg" alt="Wearable device image2" width="600" height="800"/>
+<img src="https://github.com/1kushagra2/Newbees_Elcia/blob/main/project_img_2.jpg" alt="Wearable device image2" width="600" height="600"/>
 
 
 

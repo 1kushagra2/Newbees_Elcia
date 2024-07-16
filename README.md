@@ -80,51 +80,60 @@ The working code for the Smart Hand Mobility Assistive Device. For now we have o
 from machine import Pin, ADC, UART
 import utime
 
-
+# Initialize UART for communication
 uart = UART(0, 9600)
 
+# ADC pins for flex sensors
+flex_pins = [ADC(26), ADC(27), ADC(28), ADC(29), ADC(30)]
 
-flex_pin = ADC(26)  
-AIN1 = Pin(3, Pin.OUT)
-AIN2 = Pin(4, Pin.OUT)
+# GPIO pins for motor control (AIN1 and AIN2 for each finger)
+motor_pins = [
+    (Pin(3, Pin.OUT), Pin(4, Pin.OUT)),   # Finger 1
+    (Pin(5, Pin.OUT), Pin(6, Pin.OUT)),   # Finger 2
+    (Pin(7, Pin.OUT), Pin(8, Pin.OUT)),   # Finger 3
+    (Pin(9, Pin.OUT), Pin(10, Pin.OUT)),  # Finger 4
+    (Pin(11, Pin.OUT), Pin(12, Pin.OUT))  # Finger 5
+]
 
 threshold = 15
 
-
-current_flex_value = 0
-previous_flex_value = 0
+# Initialize flex sensor values
+current_flex_values = [0] * 5
+previous_flex_values = [0] * 5
 
 def setup():
-    AIN1.low()
-    AIN2.low()
+    for ain1, ain2 in motor_pins:
+        ain1.low()
+        ain2.low()
 
 def loop():
-    global previous_flex_value
+    global previous_flex_values
 
-    current_flex_value = flex_pin.read_u16()
+    for i in range(5):
+        current_flex_values[i] = flex_pins[i].read_u16()
 
-    if abs(current_flex_value - previous_flex_value) > threshold:
-        if current_flex_value > previous_flex_value:
-            AIN1.low()
-            AIN2.high()
-        elif current_flex_value < previous_flex_value:
+        if abs(current_flex_values[i] - previous_flex_values[i]) > threshold:
+            if current_flex_values[i] > previous_flex_values[i]:
+                motor_pins[i][0].low()
+                motor_pins[i][1].high()
+            elif current_flex_values[i] < previous_flex_values[i]:
+                motor_pins[i][0].high()
+                motor_pins[i][1].low()
+        else:
+            motor_pins[i][0].low()
+            motor_pins[i][1].low()
 
-            AIN1.high()
-            AIN2.low()
-    else:
-  
-        AIN1.low()
-        AIN2.low()
+        previous_flex_values[i] = current_flex_values[i]
 
-    previous_flex_value = current_flex_value
-
-    uart.write("Flex Sensor Value: {}\n".format(current_flex_value))
+        # Send the flex sensor value over UART
+        uart.write("Flex Sensor {} Value: {}\n".format(i+1, current_flex_values[i]))
 
     utime.sleep(0.5)
 
 setup()
 while True:
     loop()
+
 ```
 ### Codes used for making the game (C#)
 

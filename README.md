@@ -780,9 +780,10 @@ A demo video showcasing the functionality of the Smart Hand Mobility Assistive D
 [![Watch the video](https://i9.ytimg.com/vi_webp/DBRHk1-JDbc/mq1.webp?sqp=CKSD1bQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgVihBMA8=&rs=AOn4CLCR6LfPuU1UN-rbkbNlGbHPI8FQPw)](https://www.youtube.com/watch?v=sWDcYhpI70U)
 
 A demo video showcasing the functionality of the Smart Hand Mobility Assistive Device for Physiotheraoy and Rehabilitation available [here](https://www.youtube.com/watch?v=VUKEUVhbraw).
-
+[![Watch the video](https://i9.ytimg.com/vi_webp/whzIk8NJf8A/mq2.webp?sqp=CMD22LQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEEgSShyMA8=&rs=AOn4CLDGzFKhtoBBqqHFQ2zGf-So2d-tFQ)](https://www.youtube.com/watch?v=VUKEUVhbraw)
 
 2D Interactive jumping games for the rehabilitation process. [here](https://youtu.be/whzIk8NJf8A?si=46Dk8aPr_QfICc2L).
+[![Watch the video](https://i9.ytimg.com/vi_webp/sWDcYhpI70U/mq2.webp?sqp=COz42LQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAQMlDvJkPO1XEcVK83ZT-EVaA39g)](https://youtu.be/whzIk8NJf8A?si=46Dk8aPr_QfICc2L)
 
 ## Future Prospects
 
